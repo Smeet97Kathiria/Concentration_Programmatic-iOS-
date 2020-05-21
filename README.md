@@ -4,6 +4,8 @@ This is my version of the iOS concentration game taught in stanfords CS193 cours
 <p float="left">
   <img src="https://github.com/Smeet97Kathiria/Concentration_Programmatic-iOS-/blob/master/Concentration_Programmatic/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-05-21%20at%2002.25.57.png" width="250" />
 <img src="https://github.com/Smeet97Kathiria/Concentration_Programmatic-iOS-/blob/master/Concentration_Programmatic/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-05-21%20at%2002.26.36.png" width="250" />
+ <img src="https://github.com/Smeet97Kathiria/Concentration_Programmatic-iOS-/blob/master/Concentration.gif" width="250" />
+ 
 </p>
 
 
